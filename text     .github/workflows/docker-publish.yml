@@ -26,5 +26,5 @@ jobs:
           context: .
           push: true
           tags: |
-            miloradknezevic/IME_REPOZITORIJA:latest
-            miloradknezevic/IME_REPOZITORIJA:${{ github.sha }}
+            miloradknezevic/feridockerci:latest
+            miloradknezevic/feridockerci:${{ github.sha }}
